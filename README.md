@@ -1,3 +1,10 @@
+# sistem-pembelian
+>>>>>>> 5f09cf674b1c76f30c1695178db8addceda92304
+=======
+# Sistem Pembelian
+
+A Laravel-based web application for managing purchases, including dynamic detail entry for items, supplier info, and master data.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +71,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# sistem-pembelian
+>>>>>>> 5f09cf674b1c76f30c1695178db8addceda92304
